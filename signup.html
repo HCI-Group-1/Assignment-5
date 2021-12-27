@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+      <title>Rantangin | Login</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
+      <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body class="login-register">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6 login-section-wrapper">
+                <div class="login-wrapper my-auto">
+                    <div class="row justify-content-center my-auto">
+                      <h1 class="login-title">Sign Up</h1>
+
+                      <form action="#!">
+                        <div class="form-group">
+                          <label for="nama" class="mb-2">Nama</label>
+                          <input type="nama" name="nama" id="nama" class="form-control" placeholder="Masukkan Nama">
+                        </div>
+
+                        <div class="form-group mt-4">
+                          <label for="email" class="mb-2">Email</label>
+                          <input type="email" name="email" id="email" class="form-control" placeholder="email@example.com">
+                        </div>
+
+                        <div class="form-group mt-4">
+                          <label for="username" class="mb-2">Username</label>
+                          <input type="username" name="username" id="username" class="form-control" placeholder="Masukkan Username">
+                        </div>
+
+                        <div class="form-group mt-4">
+                          <label for="password" class="mb-2">Password</label>
+                          <input type="password" name="password" id="password" class="form-control" placeholder="email@example.com">
+                        </div>
+
+                        <div class="form-group mt-4">
+                          <label for="confirmed-password" class="mb-2">Konfirmasi Password</label>
+                          <input type="confirmed-password" name="confirmed-password" id="confirmed-password" class="form-control" placeholder="Konfirmasi Password">
+                        </div>
+
+                        <div class="form-group mt-4">
+                          <label for="jenis-kelamin" class="mb-2">Jenis Kelamin</label>                      
+                        </div>
+
+                        <div class="form-1 form-check form-check-inline">
+                          <input class="form-check-input" type="radio" name="jenis-kelamin" id="jenis-kelamin" value="Laki-laki">
+                          <label class="form-check-label" for="jenis-kelamin">Laki-laki</label>
+                        </div>
+
+                        <div class="form-2 form-check form-check-inline">
+                          <input class="form-check-input" type="radio" name="jenis-kelamin" id="jenis-kelamin" value="Perempuan">
+                          <label class="form-check-label" for="jenis-kelamin">Perempuan</label>
+                        </div>
+
+                        <div class="d-flex mt-4" role="group" aria-label="Basic example">
+                          <button type="button" class="btn btn-primary" id="btn" style="margin-left: 40px;">Register</button>
+                          <a href="login.html"><button type="button" class="btn" id="btn">Back</button></a>
+                        </div>                      
+                      </form>
+                    </div>
+                </div>
+            </div>
+              <div class="col-sm-6 px-0 d-none d-sm-block">
+                  <img  src="images/bg.png" alt="login image" class="signup-img">
+              </div>
+        </div>
+    </div>
+  </body>
+</html>

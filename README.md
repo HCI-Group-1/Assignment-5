@@ -3,8 +3,8 @@ https://rantangin.herokuapp.com
 
 ## 🎥 User Testing Recording
 https://youtu.be/OyMeR6feKpE 
-[User manual web rantangin.pdf] 
-- (https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7780951/User.manual.web.rantangin.pdf)
+ 
+- [User manual web rantangin.pdf](https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7780951/User.manual.web.rantangin.pdf)
 - [subtitle.txt](https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7781028/subtitle.txt)
 
 ## 🎥 app demonstration video

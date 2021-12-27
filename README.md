@@ -1,18 +1,20 @@
 # 🔗URL HOSTING
 https://rantangin.herokuapp.com 
 
-## User Testing Recording
+## 🎥 User Testing Recording
 https://youtu.be/OyMeR6feKpE 
-[User manual web rantangin.pdf] (https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7780951/User.manual.web.rantangin.pdf)
+[User manual web rantangin.pdf] 
+- (https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7780951/User.manual.web.rantangin.pdf)
+- [subtitle.txt](https://github.com/HCI-Group-1/Assignment-5-FinalProject/files/7781028/subtitle.txt)
 
-## app demonstration video
-https://youtu.be/dv39jc09gXY 
+## 🎥 app demonstration video
+https://youtu.be/dv39jc09gXY  
 
 ## </> Backend Development Repo
 https://github.com/HCI-Group-1/rantangin-dev
 
 
-RANTANGIN
+# RANTANGIN
 Rantangin adalah sebuah Branding dari startup yang bergerak dibidang jasa penyedia 
 makanan berbasis online dengan menargetkan para perantau atau mahasiswa yang memiliki 
 masalah dalam mengelola keuangan mereka untuk memenuhi konsumsi atau kebutuhan 
@@ -35,10 +37,10 @@ Rantangin.
 
 Deskripsi client
 
-Client yang bekerjasama dengan kami adalah :
-Nama : Muhammad Aslam Fikri S.E 
-NIK : 1216061108960002 
-Alamat : Jln. Melanthon Siregar 9i, kec.Doloksanggul, Kab.Humbang Hasundutan, Prov. Sumatera Utara
+1. Client yang bekerjasama dengan kami adalah :
+2. Nama : Muhammad Aslam Fikri S.E 
+3. NIK : 1216061108960002 
+4. Alamat : Jln. Melanthon Siregar 9i, kec.Doloksanggul, Kab.Humbang Hasundutan, Prov. Sumatera Utara
 
 Merupakan sarjana ekonomi dari universitas siliwangi yang sudah memiliki pengalaman di bidang startup dengan menjuarai beberapa lomba tingkat nasional dan juga pengalaman lomba internasional. Fikri sudah memiliki beberapa startup yang ingin dikembangkan diantaranya adalah Evordigi, Rantangin, Toba Wonderland, Wakaf Toba dan beberapa startup lainnya. Dari beberapa startup yang dimilikinya ia tertarik untuk mengembangkan startup Rantangin dengan pertimbangan kondisi di era pandemi ini, karena dinilai paling efisien dikembangkan untuk saat ini, sasaran utama pengembangan startup ini adalah untuk membantu masyarakat khususnya untuk para pelajar rantau yang sedang bersekolah atau berkuliah agar mengelola keuangan mereka dengan tetap menjaga pola makan yang baik, selain itu untuk membantu pedagang kecil dengan mengajak kerjasama untuk memasak makanan yang sehat namun dengan harga yang terjangkau. Untuk itu fikri membutuhkan situs jejaring agar customer dan beberapa pedagang kecil yang diajak kerjasama menyediakan paket makanan sehat ini dapat bertransaksi dengan menggunakan situs jejaring Rantangin agar transaksi tetap aman.
 Project yang akan dikerjakan
@@ -56,7 +58,6 @@ Adapun anggota team dari Kelompok 1 ini Adalah
 1. Ilham Alzahdi Tamaroha 1313620006 
 2. Ahmad Luhur Pakerti 1313620028
 3. Ridwan Effendy 1313620002
-
 
 
 

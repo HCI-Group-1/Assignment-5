@@ -70,9 +70,10 @@ Dengan fitur sebagai berikut:
 
 Anggota Team:
 Adapun anggota team dari Kelompok 1 ini Adalah 
-1. Ilham Alzahdi Tamaroha 1313620006 Mengatur Github, Menghubungi client mengatur jadwal kerjasama team, menjadi moderator setiap pertemuan dengan client
-2. Ridwan Effendy 1313620002  Membuat halaman home page, cart ,checkout, daftar order, serta mendesain halaman dengan pada file style.css (Front-End) 
-3. Ahmad Luhur Pakerti 1313620028, Notulensi hal yang dibutuhkan, Record, Upload file : boostrap.css, error_log, kategori.php, konfirmasi.php, login.php, logout.php
+1. Ilham Alzahdi Tamaroha 1313620006 Mengatur Github, Menghubungi client mengatur jadwal kerjasama team, menjadi moderator setiap pertemuan dengan client, Notulensi hal yang dibutuhkan
+2. Ridwan Effendy 1313620002  Record, Membuat halaman home page, cart ,checkout, daftar order, serta mendesain halaman dengan pada file style.css (Front-End) 
+3. Ahmad Luhur Pakerti 1313620028 Mengintegrasikan Frontend kedalam bentuk kode / Proses Back-end dan negosiasi fitur dengan client
+
 
 
 
